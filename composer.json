@@ -1,0 +1,12 @@
+{
+  "name": "pashkinz92/Slack-Yii2",
+  "description": "Slack for Yii2",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Pavel Pozhetnov",
+      "email": "pashkinz92@gmail.com"
+    }
+  ]
+}
