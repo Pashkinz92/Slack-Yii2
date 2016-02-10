@@ -8,5 +8,13 @@
       "name": "Pavel Pozhetnov",
       "email": "pashkinz92@gmail.com"
     }
-  ]
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "pashkinz92\\": ""
+    }
+  }
 }
