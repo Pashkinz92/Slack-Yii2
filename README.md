@@ -9,7 +9,6 @@ v 0.2
         'targets' => [
             [
                 'class' => 'pashkinz92\SlackLogger',
-                'logVars' => [],
                 'levels' => ['error'],
             ],
         ],
@@ -27,6 +26,12 @@ v 0.2
         ],
 ...
 ],
+```
+
+_Install_:
+
+```
+composer require pashkinz92/slack-yii2 "*"
 ```
 
 _Use_:
