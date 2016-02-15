@@ -1,7 +1,13 @@
 # Slack-Yii2
 Slack bot messages for log in Yii2 
 
-v 0.2
+v 1.0.1
+
+_Install_:
+
+```
+composer require pashkinz92/slack-yii2 "*"
+```
 
 ```
 'log' => [
@@ -26,12 +32,6 @@ v 0.2
         ],
 ...
 ],
-```
-
-_Install_:
-
-```
-composer require pashkinz92/slack-yii2 "*"
 ```
 
 _Use_:
